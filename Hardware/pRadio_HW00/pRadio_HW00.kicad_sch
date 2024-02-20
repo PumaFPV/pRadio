@@ -1423,7 +1423,7 @@
     (property "Value" "SW_Push" (at 66.04 158.75 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Component_lib:Kailh_socket_PG1350" (at 66.04 157.48 0)
+    (property "Footprint" "Component_lib:SW_Kailh_Choc_V1" (at 66.04 157.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 66.04 157.48 0)
