@@ -1,4 +1,4 @@
-22537093021577494
+22538806917498053
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -10632,6 +10632,13 @@ Connector
 0
 16
 16
+Component_lib
+USB_C_Receptacle_213716-0001
+USB 2.0 Type C Receptacle, https://gct.co/Files/Drawings/USB4085.pdf
+USB Type-C Receptacle Through-hole Right angle
+0
+20
+17
 Component_lib
 USB_PCB
 USB A male PCB connector
